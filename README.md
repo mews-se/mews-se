@@ -25,6 +25,8 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. I write small, focused tool
 ![Followers](https://img.shields.io/github/followers/mews-se?logo=github&label=followers)
 ![Stars](https://img.shields.io/github/stars/mews-se?affiliations=OWNER&logo=github&label=stars)
 
+![Metrics](github-metrics.svg)
+
 ---
 
 💚 Proud sponsor of open-source projects I rely on.
