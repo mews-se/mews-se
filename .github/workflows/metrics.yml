@@ -12,7 +12,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: mews-se
@@ -23,10 +23,9 @@ jobs:
           plugin_languages_limit: 6
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_habits: yes
-          plugin_habits_days: 30
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
           plugin_people: yes
           plugin_people_types: sponsoring
           plugin_people_limit: 24
