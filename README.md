@@ -22,7 +22,8 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. I write small, focused tool
 
 ## 📈 Stats
 
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mews-se&show_icons=true&theme=transparent)
+![Followers](https://img.shields.io/github/followers/mews-se?logo=github&label=followers)
+![Stars](https://img.shields.io/github/stars/mews-se?affiliations=OWNER&logo=github&label=stars)
 
 ---
 
