@@ -24,6 +24,3 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_lines: yes
-          plugin_people: yes
-          plugin_people_types: sponsoring
-          plugin_people_limit: 24
