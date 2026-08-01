@@ -5,8 +5,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. I write small, focused tool
 ## 🔧 What I build
 
 **Debian mirror benchmarking**
-- [swedebtest](https://github.com/mews-se/swedebtest) — benchmark Debian mirrors with a focus on Swedish mirrors
-- [geodebtest](https://github.com/mews-se/geodebtest) — the international sibling: autodetects your location and benchmarks your country's mirrors
+- [geodebtest](https://github.com/mews-se/geodebtest) — autodetects your location and benchmarks your country's Debian mirrors
 
 **Keeping Dell machines cool on Linux**
 - [dell-optiplex-temp-control](https://github.com/mews-se/dell-optiplex-temp-control) — fan control for OptiPlexes (often SFF) that can't cool themselves under Linux
