@@ -5,7 +5,8 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 ## 🔧 What I build
 
 **DietPi automation**
-- [dietpi-factory](https://github.com/mews-se/dietpi-factory): preconfigured headless DietPi installs for Proxmox, Pi, bare metal and VPS
+- [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless DietPi from one wizard profile
+- [dietpi-factory-personal](https://github.com/mews-se/dietpi-factory-personal): my own configuration of it
 
 **Debian mirror benchmarking**
 - [geodebtest](https://github.com/mews-se/geodebtest): autodetects your location and benchmarks your country's Debian mirrors
