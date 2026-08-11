@@ -1,8 +1,11 @@
 # Hej! 👋
 
-I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself.
+I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — and lately a self-hosted bookkeeping app.
 
 ## 🔧 What I build
+
+**Self-hosted bookkeeping**
+- [firmabok](https://github.com/mews-se/firmabok): Swedish bookkeeping for sole traders (enskild firma), self-hosted on your own network without cloud dependencies
 
 **DietPi automation**
 - [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless DietPi from one wizard profile
@@ -21,7 +24,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 
 ## 🧰 Toolbox
 
-`bash` · `debian` · `linux` · `systemd` · `shellcheck`
+`bash` · `debian` · `linux` · `systemd` · `shellcheck` · `typescript` · `postgres` · `docker`
 
 ## 📈 Stats
 
