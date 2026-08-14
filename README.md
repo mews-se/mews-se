@@ -14,7 +14,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [geodebtest](https://github.com/mews-se/geodebtest): autodetects your location and benchmarks your country's Debian mirrors
 
 **Keeping Dell machines cool on Linux**
-- [dell-optiplex-temp-control](https://github.com/mews-se/dell-optiplex-temp-control): fan control for OptiPlexes (often SFF) that can't cool themselves under Linux
+- [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops - detects what the machine supports and sets it up
 - [dell-bios-fan-control](https://github.com/mews-se/dell-bios-fan-control): toggle SMBIOS automatic fan control on Dell machines
 
 **Quality-of-life scripts**
