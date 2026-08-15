@@ -18,10 +18,6 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [geodebtest](https://github.com/mews-se/geodebtest): autodetects your location and benchmarks your country's Debian mirrors
 - [update-fastfetch](https://github.com/mews-se/update-fastfetch): keep [fastfetch](https://github.com/fastfetch-cli/fastfetch) up to date on Debian without waiting for the repos
 
-## 🧰 Toolbox
-
-`bash` · `debian` · `linux` · `systemd` · `docker` · `github-actions` · `shellcheck` · `typescript` · `postgres`
-
 ## 📈 Stats
 
 ![Followers](https://img.shields.io/github/followers/mews-se?logo=github&label=followers)
