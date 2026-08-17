@@ -1,6 +1,6 @@
 # Hej! 👋
 
-I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — plus a self-hosted bookkeeping app and a maintained Docker image or two.
+I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — plus a self-hosted bookkeeping app, a maintained Docker image or two and the occasional PowerShell fix for a Windows annoyance.
 
 ## 🔧 What I build
 
@@ -17,6 +17,9 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [hostctl](https://github.com/mews-se/hostctl): one command to update, inspect and manage your hosts
 - [geodebtest](https://github.com/mews-se/geodebtest): autodetects your location and benchmarks your country's Debian mirrors
 - [update-fastfetch](https://github.com/mews-se/update-fastfetch): keep [fastfetch](https://github.com/fastfetch-cli/fastfetch) up to date on Debian without waiting for the repos
+
+**Windows**
+- [no-new-outlook](https://github.com/mews-se/no-new-outlook): removes new Outlook and keeps it from coming back
 
 ## 📈 Stats
 
