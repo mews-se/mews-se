@@ -8,7 +8,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [firmabok](https://github.com/mews-se/firmabok): Swedish bookkeeping for sole traders (enskild firma), self-hosted on your own network without cloud dependencies
 - [docker-observium](https://github.com/mews-se/docker-observium): unofficial Docker image for Observium CE — rebuilt weekly for amd64/arm64, mirrored to [Docker Hub](https://hub.docker.com/r/mewsse/observium)
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
-- [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://dietpi.com/) from one wizard profile
+- [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile
 
 **TeslaMate**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own [TeslaMate](https://github.com/teslamate-org/teslamate) server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself
