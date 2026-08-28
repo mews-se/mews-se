@@ -10,8 +10,9 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
 - [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://dietpi.com/) from one wizard profile
 
-**On the phone**
+**TeslaMate**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own [TeslaMate](https://github.com/teslamate-org/teslamate) server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself
+- [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the TeslaMate docs as one interactive menu — verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
 
 **Keeping Dell machines cool on Linux**
 - [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops — detects what the machine supports and sets it up
