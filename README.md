@@ -25,6 +25,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 
 **Windows**
 - [no-new-outlook](https://github.com/mews-se/no-new-outlook): removes new Outlook and keeps it from coming back
+- [TPFanCtrl2](https://github.com/mews-se/TPFanCtrl2): fan control for ThinkPads, carrying on the archived TPFanCtrl2 line — service engine plus tray client, runs under Memory Integrity via [PawnIO](https://pawnio.eu/)
 
 ## 📈 Stats
 
