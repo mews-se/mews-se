@@ -10,8 +10,9 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
 - [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile
 
-**TeslaMate**
+**Tesla**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own [TeslaMate](https://github.com/teslamate-org/teslamate) server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself
+- [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3 — the charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a Grafana dashboard included
 - [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the TeslaMate docs as one interactive menu — verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
 
 **Keeping Dell machines cool on Linux**
