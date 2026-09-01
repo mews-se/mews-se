@@ -1,6 +1,6 @@
 # Hej! 👋
 
-I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — plus a self-hosted bookkeeping app, a maintained Docker image or two, the occasional PowerShell fix for a Windows annoyance, and lately an iPhone app written in SwiftUI.
+I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — plus a self-hosted bookkeeping app, a maintained Docker image or two, the occasional PowerShell fix for a Windows annoyance, and lately a pair of iPhone apps written in SwiftUI.
 
 ## 🔧 What I build
 
@@ -13,6 +13,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 **Tesla**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own [TeslaMate](https://github.com/teslamate-org/teslamate) server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself
 - [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3 — the charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a Grafana dashboard included
+- [WallConnectorLog for iOS](https://github.com/mews-se/wallconnectorlog-ios): the iPhone companion to that server — live charger status, the sessions it has derived and the charger's lifetime counters, with a demo mode a typed word away
 - [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the TeslaMate docs as one interactive menu — verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
 
 **Keeping Dell machines cool on Linux**
