@@ -17,7 +17,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 **Apple**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own TeslaMate server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself. [On the App Store](https://apps.apple.com/app/evlog/id6802532911)
 - [WallConnectorLog for iOS](https://github.com/mews-se/wallconnectorlog-ios): the iPhone companion to the WallConnectorLog server — live charger status, the sessions it has derived and the charger's lifetime counters, with a demo mode a typed word away. [On the App Store](https://apps.apple.com/app/wallconnectorlog/id6807546205)
-- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches — it shows the list first and moves things to the Trash rather than deleting them. First release on its way
+- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches — it shows the list first and moves things to the Trash rather than deleting them. [Download](https://github.com/mews-se/debris/releases/latest) · [debris.martinstockzell.se](https://debris.martinstockzell.se/)
 
 **Keeping Dell machines cool on Linux**
 - [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops — detects what the machine supports and sets it up
