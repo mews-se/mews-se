@@ -6,6 +6,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 
 **Self-hosting**
 - [firmabok](https://github.com/mews-se/firmabok): Swedish bookkeeping for sole traders (enskild firma), self-hosted on your own network without cloud dependencies
+- [avfallsanteckning](https://github.com/mews-se/avfallsanteckning): hazardous waste records for Swedish businesses under 6 kap. avfallsförordningen — deadlines in working days, PDFs, and a status that shows when the report to Naturvårdsverket is filed, self-hosted with no accounts anywhere
 - [docker-observium](https://github.com/mews-se/docker-observium): unofficial Docker image for Observium CE — rebuilt weekly for amd64/arm64, mirrored to [Docker Hub](https://hub.docker.com/r/mewsse/observium)
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
 - [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile
