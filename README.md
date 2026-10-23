@@ -1,27 +1,27 @@
 # Hej! 👋
 
-I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself — plus a self-hosted bookkeeping app, a maintained Docker image or two, the occasional PowerShell fix for a Windows annoyance, and lately SwiftUI apps for the iPhone and the Mac.
+I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself, plus a self-hosted bookkeeping app, a maintained Docker image or two, the occasional PowerShell fix for a Windows annoyance, and lately SwiftUI apps for the iPhone and the Mac.
 
 ## 🔧 What I build
 
 **Self-hosting**
 - [firmabok](https://github.com/mews-se/firmabok): Swedish bookkeeping for sole traders (enskild firma), self-hosted on your own network without cloud dependencies
-- [avfallsanteckning](https://github.com/mews-se/avfallsanteckning): hazardous waste records for Swedish businesses under 6 kap. avfallsförordningen — deadlines in working days, PDFs, and a status that shows when the report to Naturvårdsverket is filed, self-hosted with no accounts anywhere
-- [docker-observium](https://github.com/mews-se/docker-observium): unofficial Docker image for Observium CE — rebuilt weekly for amd64/arm64, mirrored to [Docker Hub](https://hub.docker.com/r/mewsse/observium)
+- [avfallsanteckning](https://github.com/mews-se/avfallsanteckning): hazardous waste records for Swedish businesses under 6 kap. avfallsförordningen: deadlines in working days, PDFs, and a status that shows when the report to Naturvårdsverket is filed, self-hosted with no accounts anywhere
+- [docker-observium](https://github.com/mews-se/docker-observium): unofficial Docker image for Observium CE, rebuilt weekly for amd64/arm64, mirrored to [Docker Hub](https://hub.docker.com/r/mewsse/observium)
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
 - [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile
 
 **Tesla**
-- [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3 — the charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a Grafana dashboard included
-- [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the [TeslaMate](https://github.com/teslamate-org/teslamate) docs as one interactive menu — verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
+- [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3. The charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a Grafana dashboard included
+- [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the [TeslaMate](https://github.com/teslamate-org/teslamate) docs as one interactive menu: verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
 
 **Apple**
-- [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own TeslaMate server — drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself. [On the App Store](https://apps.apple.com/app/evlog/id6802532911)
-- [WallConnectorLog for iOS](https://github.com/mews-se/wallconnectorlog-ios): the iPhone companion to the WallConnectorLog server — live charger status, the sessions it has derived and the charger's lifetime counters, with a demo mode a typed word away. [On the App Store](https://apps.apple.com/app/wallconnectorlog/id6807546205)
-- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches — it shows the list first and moves things to the Trash rather than deleting them. [Download](https://github.com/mews-se/debris/releases/latest) · [debris.martinstockzell.se](https://debris.martinstockzell.se/)
+- [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own TeslaMate server: drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself. [On the App Store](https://apps.apple.com/app/evlog/id6802532911)
+- [WallConnectorLog for iOS](https://github.com/mews-se/wallconnectorlog-ios): the iPhone companion to the WallConnectorLog server: live charger status, the sessions it has derived and the charger's lifetime counters, with a demo mode a typed word away. [On the App Store](https://apps.apple.com/app/wallconnectorlog/id6807546205)
+- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches. It shows the list first and moves things to the Trash rather than deleting them. [Download](https://github.com/mews-se/debris/releases/latest) · [debris.martinstockzell.se](https://debris.martinstockzell.se/)
 
 **Keeping Dell machines cool on Linux**
-- [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops — detects what the machine supports and sets it up
+- [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops, detecting what the machine supports and setting it up
 - [dell-bios-fan-control](https://github.com/mews-se/dell-bios-fan-control): toggle SMBIOS automatic fan control on Dell machines
 
 **Debian host tooling**
