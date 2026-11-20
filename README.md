@@ -1,6 +1,6 @@
 # Hej! 👋
 
-I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself, plus a self-hosted bookkeeping app, a maintained Docker image or two, the occasional PowerShell fix for a Windows annoyance, and lately SwiftUI apps for the iPhone and the Mac.
+I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian, often involving Dell hardware that refuses to cool itself, plus a self-hosted bookkeeping app, a maintained Docker image or two, fan control and the occasional PowerShell fix for Windows, SwiftUI apps for the iPhone and the Mac, and lately a Raspberry Pi that stands in for the car's USB drives.
 
 ## 🔧 What I build
 
@@ -9,16 +9,17 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 - [avfallsanteckning](https://github.com/mews-se/avfallsanteckning): hazardous waste records for Swedish businesses under 6 kap. avfallsförordningen: deadlines in working days, PDFs, and a status that shows when the report to Naturvårdsverket is filed, self-hosted with no accounts anywhere
 - [docker-observium](https://github.com/mews-se/docker-observium): unofficial Docker image for Observium CE, rebuilt weekly for amd64/arm64, mirrored to [Docker Hub](https://hub.docker.com/r/mewsse/observium)
 - [observium-ce-archive](https://github.com/mews-se/observium-ce-archive): keeps every Observium CE build around, since upstream only ever publishes the latest one
-- [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile
+- [dietpi-factory](https://github.com/mews-se/dietpi-factory): deploy preconfigured headless [DietPi](https://github.com/MichaIng/DietPi) from one wizard profile, to Proxmox containers and VMs, Pi images or bare metal
 
 **Tesla**
-- [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3. The charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a Grafana dashboard included
+- [WallConnectorLog](https://github.com/mews-se/wallconnectorlog): self-hosted logger for the Tesla Wall Connector Gen 3. The charger keeps no history, so this polls its local API around the clock and derives real charge sessions, with a built-in web page and a Grafana dashboard
+- [teslausb-lite](https://github.com/mews-se/teslausb-lite): a Raspberry Pi as the car's USB drives. Sentry and dashcam clips go to your cloud storage with rclone once the car is home, and the light show, boombox and lock chime drives are filled from a cloud folder. One script, one service, one config file
 - [teslamate-maintenance](https://github.com/mews-se/teslamate-maintenance): the maintenance chapter of the [TeslaMate](https://github.com/teslamate-org/teslamate) docs as one interactive menu: verified backups, guarded restores, closing or deleting drives and charges, PostgreSQL major upgrades
 
 **Apple**
 - [EVLog](https://github.com/mews-se/evlog-ios): native iPhone client for your own TeslaMate server: drives with route maps, charge curves, statistics and battery health, reading only from machines you run yourself. [On the App Store](https://apps.apple.com/app/evlog/id6802532911)
 - [WallConnectorLog for iOS](https://github.com/mews-se/wallconnectorlog-ios): the iPhone companion to the WallConnectorLog server: live charger status, the sessions it has derived and the charger's lifetime counters, with a demo mode a typed word away. [On the App Store](https://apps.apple.com/app/wallconnectorlog/id6807546205)
-- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches. It shows the list first and moves things to the Trash rather than deleting them. [Download](https://github.com/mews-se/debris/releases/latest) · [debris.martinstockzell.se](https://debris.martinstockzell.se/)
+- [Debris](https://github.com/mews-se/debris): Mac cleaner that finds what is left of apps you no longer have, uninstalls apps together with everything they own and clears caches and developer junk. It shows the list first and moves things to the Trash rather than deleting them. [Download](https://github.com/mews-se/debris/releases/latest) · [debris.martinstockzell.se](https://debris.martinstockzell.se/)
 
 **Keeping Dell machines cool on Linux**
 - [dellfan](https://github.com/mews-se/dellfan): fan control for Dell OptiPlex desktops, detecting what the machine supports and setting it up
@@ -31,7 +32,7 @@ I'm Martin, a Linux tinkerer from Stockholm, Sweden. Small Bash tools for Debian
 
 **Windows**
 - [no-new-outlook](https://github.com/mews-se/no-new-outlook): removes new Outlook and keeps it from coming back
-- [TPFanCtrl2](https://github.com/mews-se/TPFanCtrl2): fan control for ThinkPads, carrying on the archived TPFanCtrl2 line
+- [TPFanCtrl2](https://github.com/mews-se/TPFanCtrl2): fan control for ThinkPads on Windows 10/11, a service engine plus a tray client, carrying on the archived TPFanCtrl2 line
 
 ## 📈 Stats
 
